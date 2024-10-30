@@ -54,14 +54,12 @@
 
 ###
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=V-Kozintsev&theme=dark)](https://git.io/streak-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=V-Kozintsev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
 
 ###
 
 
-  <img src="https://github-readme-stats.vercel.app/api?username=V-Kozintsev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <a href="https://github.com/V-Kozintsev">
-    <img height=129 align="center" src="https://github-readme-stats.vercel.app/api?username=V-Kozintsev&hide=stars,prs,issues,contribs&rank_icon=github&custom_title=My+GitHub+Stats&theme=radical" />
-  </a>
+  
 
 
 
