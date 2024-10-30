@@ -19,7 +19,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=filimonovalexey.filimonovalexey&"  />
+  <img src="https://komarev.com/ghpvc/?username=V-Kozintsev&style=flat-square&color=blue" alt=""/>
 </div>
 
 ###
