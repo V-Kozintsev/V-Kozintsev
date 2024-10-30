@@ -10,4 +10,10 @@
 
 ###
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=V-Kozintsev)](https://github.com/anuraghazra/github-readme-stats)
+<div id="badges">
+  <a href="https://t.me/viktorkozintsev">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+</div>
+
+###
