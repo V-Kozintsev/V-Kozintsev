@@ -53,8 +53,17 @@
 <h3 align="left">🔥   Моя статистика :</h3>
 
 ###
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=V-Kozintsev&theme=dark)](https://git.io/streak-stats)
-<img src="https://github-readme-stats.vercel.app/api?username=V-Kozintsev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+
+## :octocat: GitHub статистика:
+
+  <a href="https://github.com/voven007">
+    <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=voven007&layout=compact&langs_count=4&hide=javascript,css&theme=radical" />
+  </a><p><p>
+  <a href="https://github.com/voven007">
+    <img height=129 align="center" src="https://github-readme-stats.vercel.app/api?username=voven007&hide=stars,prs,issues,contribs&rank_icon=github&custom_title=My+GitHub+Stats&theme=radical" />
+  </a>
 
 ###
 
