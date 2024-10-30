@@ -10,7 +10,7 @@
 
 ###
 
-<div id="badges">
+<div align="center" id="badges">
   <a href="https://t.me/viktorkozintsev">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
