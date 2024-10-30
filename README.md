@@ -32,3 +32,14 @@
 
 ###
 
+###
+
+<h3 align="left">🛠 Технологии:</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="nodeJS logo"  />
+</div>
