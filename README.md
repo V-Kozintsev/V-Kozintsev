@@ -69,7 +69,11 @@
 
 ###
 
-[![codewars](https://www.codewars.com/users/V-Kozintsev/badges/small)](https://www.codewars.com/users/V-Kozintsev)
+<h3 align="left">🔥   Моя статистика тренировок :</h3>
+
+###
+
+[![codewars](https://www.codewars.com/users/V-Kozintsev/badges/large)](https://www.codewars.com/users/V-Kozintsev)
 
 ###
 
