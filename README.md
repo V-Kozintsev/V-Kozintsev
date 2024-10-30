@@ -55,22 +55,14 @@
 ###
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=V-Kozintsev&theme=dark)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=V-Kozintsev&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-## :octocat: GitHub статистика:
 
-  <a href="https://github.com/voven007">
-    <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=V-Kozintsev&layout=compact&langs_count=4&hide=javascript,css&theme=radical" />
-  </a><p><p>
+###
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=V-Kozintsev&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   <a href="https://github.com/voven007">
     <img height=129 align="center" src="https://github-readme-stats.vercel.app/api?username=V-Kozintsev&hide=stars,prs,issues,contribs&rank_icon=github&custom_title=My+GitHub+Stats&theme=radical" />
   </a>
 
 ###
 
-
-  
-
-
-
-###
