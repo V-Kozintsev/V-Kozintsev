@@ -60,7 +60,7 @@
 ###
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=V-Kozintsev&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-  <a href="https://github.com/voven007">
+  <a href="https://github.com/V-Kozintsev">
     <img height=129 align="center" src="https://github-readme-stats.vercel.app/api?username=V-Kozintsev&hide=stars,prs,issues,contribs&rank_icon=github&custom_title=My+GitHub+Stats&theme=radical" />
   </a>
 
