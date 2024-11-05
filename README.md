@@ -46,6 +46,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="nodeJS logo"  />
   <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
   <img src="https://cdn.simpleicons.org/webpack/8DD6F9" height="40" alt="webpack logo"  />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" height="40" alt="git logo"  />
 </div>
 
 ###
