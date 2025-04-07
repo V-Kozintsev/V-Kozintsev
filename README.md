@@ -45,6 +45,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" height="40" alt="react logo" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" height="40" alt="vuejs logo" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="nodeJS logo"  />
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" height="40" alt="postgresql logo"  />
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" height="40" alt="docker logo"  />
