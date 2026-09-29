@@ -1,6 +1,6 @@
 <picture>
-  <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/V-Kozintsev/V-Kozintsev/main/assets/profile-banner-mobile.svg">
-  <img src="https://raw.githubusercontent.com/V-Kozintsev/V-Kozintsev/main/assets/profile-banner.svg" alt="Viktor Kozintcev — Frontend Developer. JavaScript, TypeScript, React, Unity, адаптивные интерфейсы и браузерные игры." width="100%">
+  <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/V-Kozintsev/V-Kozintsev/main/assets/profile-banner-mobile.svg?v=20260929-unity">
+  <img src="https://raw.githubusercontent.com/V-Kozintsev/V-Kozintsev/main/assets/profile-banner.svg?v=20260929-unity" alt="Viktor Kozintcev — Frontend Developer. JavaScript, TypeScript, React, Unity, адаптивные интерфейсы и браузерные игры." width="100%">
 </picture>
 
 **Frontend-разработчик.** Создаю интерфейсы на JavaScript и TypeScript: от адаптивной вёрстки по Figma до React-приложений с навигацией, формами и данными. Работаю с Laravel / Blade, собираю адаптивные лендинги на **Tilda** и развиваю направление **WordPress**. Создаю браузерные игры на TypeScript / SVG; отдельно развиваю игровые прототипы на **Unity / C#**.
@@ -29,6 +29,7 @@
 
 | Проект | Что реализовано | Посмотреть |
 | :--- | :--- | :--- |
+| **Atmos** · погода | React / TypeScript: интерактивные SVG-графики, API, прогноз на неделю, качество воздуха и планировщик | [Приложение](https://v-kozintsev.github.io/draft-weather-forecast/) · [Код](https://github.com/V-Kozintsev/draft-weather-forecast) |
 | **Гедонист** · свечи и ароматы | Адаптивный каталог, фильтры, варианты товаров, корзина с сохранением | [Сайт](https://v-kozintsev.github.io/candlegedonist/) · [Код](https://github.com/V-Kozintsev/candlegedonist) |
 | **Елена Козинцева** · фотограф | Tilda: портфолио с увеличением фото, адаптивное меню, цены и запись | [Сайт](https://puskweb-portfolio.tilda.ws/elena-photographer) · [Проект](https://github.com/V-Kozintsev/kozintsevaelena.ru) |
 
@@ -75,10 +76,10 @@
 | **Игровые прототипы** | Unity · C# · камера · NPC · диалоги |
 | **Механики и интерфейс** | Уровни · прогрессия · сохранения · звук · анимации |
 
+**«Тёплый свет»** — браузерная головоломка на TypeScript / SVG: уровни, прогрессия, анимации и сохранения.
+
 <details>
   <summary><strong>Unity / C# — отдельное направление развития</strong></summary>
-
-**«Тёплый свет»** — браузерная головоломка на TypeScript / SVG: уровни, прогрессия, анимации и сохранения.
 
 Развиваю Unity / C# через прототипирование: навигация, камера, взаимодействие с NPC и диалоги.
 
@@ -99,4 +100,6 @@
 ---
 
 **[PuskWeb — мой сайт](https://puskweb.ru/)** · Обсудить вакансию или проект: [Telegram](https://t.me/viktorkozintsev) · [aurelio3@mail.ru](mailto:aurelio3@mail.ru)
+
+
 
