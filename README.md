@@ -29,7 +29,7 @@
 
 | Проект | Что реализовано | Посмотреть |
 | :--- | :--- | :--- |
-| **Atmos** · погода | React / TypeScript: интерактивные SVG-графики, API, прогноз на неделю, качество воздуха и планировщик | [Приложение](https://v-kozintsev.github.io/atmos-weather/) · [Код](https://github.com/V-Kozintsev/atmos-weather) |
+| **Atmos** · погодное PWA | React / TypeScript / Workbox: установка на устройство, офлайн-интерфейс, SVG-графики, API, качество воздуха и планы на день | [Приложение](https://v-kozintsev.github.io/atmos-weather/) · [Код](https://github.com/V-Kozintsev/atmos-weather) |
 | **Гедонист** · свечи и ароматы | Адаптивный каталог, фильтры, варианты товаров, корзина с сохранением | [Сайт](https://v-kozintsev.github.io/candlegedonist/) · [Код](https://github.com/V-Kozintsev/candlegedonist) |
 | **Елена Козинцева** · фотограф | Tilda: портфолио с увеличением фото, адаптивное меню, цены и запись | [Сайт](https://puskweb-portfolio.tilda.ws/elena-photographer) · [Проект](https://github.com/V-Kozintsev/kozintsevaelena.ru) |
 
