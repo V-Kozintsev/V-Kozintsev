@@ -25,6 +25,13 @@
 - **Логика приложений:** компоненты, маршрутизация, управление состоянием, поиск и фильтрация, формы с валидацией и обработкой ошибок.
 - **Данные и интеграции:** запросы к API, асинхронные состояния интерфейса, Firebase, локальное хранение и связка frontend с Laravel.
 
+### Избранные проекты
+
+| Проект | Что реализовано | Посмотреть |
+| :--- | :--- | :--- |
+| **Гедонист** · свечи и ароматы | Адаптивный каталог, фильтры, варианты товаров, корзина с сохранением | [Сайт](https://v-kozintsev.github.io/candlegedonist/) · [Код](https://github.com/V-Kozintsev/candlegedonist) |
+| **Елена Козинцева** · фотограф | Tilda: портфолио с увеличением фото, адаптивное меню, цены и запись | [Сайт](https://puskweb-portfolio.tilda.ws/elena-photographer) · [Проект](https://github.com/V-Kozintsev/kozintsevaelena.ru) |
+
 ### Стек для веб-разработки
 
 <p>
@@ -43,6 +50,7 @@
 | **Формы и UI** | React Hook Form · Zod · Tailwind CSS · Material UI |
 | **Backend и данные** | PHP · Laravel / Blade · MySQL · Firebase · REST API |
 | **Разработка** | Git · GitHub · Vite · Docker · Figma |
+| **Лендинги** | Tilda · адаптивная композиция · галереи · навигация |
 
 [Репозитории Frontend →](https://github.com/search?q=user%3AV-Kozintsev+topic%3Afrontend+fork%3Afalse&amp;type=repositories)
 
@@ -85,4 +93,5 @@
 
 ---
 
-**Обсудить вакансию или проект:** [Telegram](https://t.me/viktorkozintsev) · [aurelio3@mail.ru](mailto:aurelio3@mail.ru)
+**[PuskWeb — мой сайт](https://puskweb.ru/)** · Обсудить вакансию или проект: [Telegram](https://t.me/viktorkozintsev) · [aurelio3@mail.ru](mailto:aurelio3@mail.ru)
+
