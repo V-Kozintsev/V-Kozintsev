@@ -1,67 +1,74 @@
-<div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExanVkeXVpMnlncjdlNmI0dWw5MGR5bWJuYW5vMHZpNWFxdzI0dXQ4NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <div>
-    <a href="https://t.me/viktorkozintsev">
-      <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-    </a>
-    <a href="https://vk.com/id17749830">
-      <img src="https://img.shields.io/badge/VKontakte-4C75A3?style=for-the-badge&logo=vk&logoColor=white" alt="VK Badge"/>
-    </a>
-  </div>
-  <div>
-    <img src="https://komarev.com/ghpvc/?username=V-Kozintsev&style=flat-square&color=blue" alt=""/>
-  </div>
-  <div>
-    <h1>
-      Добро пожаловать! <br> Делаю вебы, люблю React!
-      <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-    </h1>
-  </div>
-</div>
+<picture>
+  <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/V-Kozintsev/V-Kozintsev/main/assets/profile-banner-mobile.svg">
+  <img src="https://raw.githubusercontent.com/V-Kozintsev/V-Kozintsev/main/assets/profile-banner.svg" alt="Viktor Kozintcev — веб-интерфейсы и игры. React, TypeScript, Phaser, Unity." width="100%">
+</picture>
 
-![work gif](https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif)
+Разрабатываю **веб-интерфейсы и игры**. В вебе работаю с React, TypeScript и Laravel; в браузерных играх — с механиками, уровнями, прогрессией и интерфейсом. Развиваю опыт в Unity и C# на RPG-прототипе.
+
+[Telegram](https://t.me/viktorkozintsev) · [Почта](mailto:aurelio3@mail.ru) · [Codewars](https://www.codewars.com/users/V-Kozintsev) · [VK](https://vk.com/id17749830)
+
+## Что делаю
+
+- **Веб:** адаптивная вёрстка по Figma, React-интерфейсы, формы, интеграции и работа с данными.
+- **Браузерные игры:** головоломки и tower defense, игровые состояния, сохранения, баланс, звук и анимации.
+- **Unity:** прототипирование навигации, камеры, взаимодействия с NPC и диалогов.
+
+## Стек
+
+| Направление | Технологии |
+| :--- | :--- |
+| **Frontend** | React · TypeScript · JavaScript · React Router |
+| **Интерфейсы** | HTML · CSS / SCSS · Tailwind CSS · Alpine.js |
+| **Backend и данные** | PHP · Laravel · MySQL · Firebase |
+| **Браузерные игры** | TypeScript · Phaser · Canvas · SVG |
+| **Инструменты** | Git · Vite · Docker · Figma |
+
+<details>
+  <summary>Другие инструменты и обучение</summary>
+
+В проектах также использую Redux, Material UI, React Hook Form, Zod, Node.js и Vagrant / Homestead.
+
+**Сейчас изучаю:** Unity / C# через разработку RPG-прототипа, Java — через практические задачи.
+
+</details>
+
+## Избранные проекты
+
+### [Project Genesis](https://github.com/V-Kozintsev/ProjectGenesis)
+
+RPG-прототип на Unity: небольшая стартовая локация, перемещение через NavMesh, камера с обходом препятствий, взаимодействие с NPC, диалоги и состояние первого квеста. Проект в разработке.
+
+**Unity · C# · NavMesh · игровой UI**
+
+### [GRAVITON Machinery](https://github.com/V-Kozintsev/graviton-machinery)
+
+Каталог строительной техники: фильтры, карточки моделей, страницы товаров, галерея и форма заявки на коммерческое предложение.
+
+**React · TypeScript · React Router · React Hook Form · Zod**<br>
+[Открыть сайт ↗](https://v-kozintsev.github.io/graviton-machinery/)
+
+### [Task Calendar](https://github.com/V-Kozintsev/Task_Calendar)
+
+Календарь задач с созданием, редактированием и удалением записей, фильтрами и поиском по частичному совпадению. Два варианта хранения: localStorage и Firebase.
+
+**TypeScript · Firebase · localStorage**<br>
+[Открыть демо ↗](https://v-kozintsev.github.io/Task_Calendar/)
+
+### [Easy2Report](https://github.com/V-Kozintsev/file2report)
+
+Веб-приложение на Laravel с почтовой интеграцией через SMTP Яндекса. Окружение Homestead и развёртывание на хостинге Timeweb.
+
+**PHP · Laravel · Homestead · SMTP**
+
+<details>
+  <summary>Ещё немного практики</summary>
+
+- [Redux Chat](https://github.com/V-Kozintsev/Redux-chat) — состояние приложения и синхронизация сообщений через Firebase.
+- [Игра в жизнь](https://github.com/V-Kozintsev/the_game_of_life) — интерактивный проект на TypeScript. [Открыть демо ↗](https://v-kozintsev.github.io/the_game_of_life/)
+- [Mod Studio](https://github.com/V-Kozintsev/otus) — учебный проект по HTML / CSS. [Открыть сайт ↗](https://v-kozintsev.github.io/otus/)
+
+</details>
 
 ---
 
-### :man_technologist: Обо мне :
-- 🧑‍💻 Фронтенд-разработчик с опытом в React, JavaScript, CSS и Laravel.
-- 🌱 Придумываю и запускаю современные веб‑проекты, делаю сайты удобными и красивыми.
-- 🚀 Люблю учиться новому, пробую свежие технологии и делюсь решениями на GitHub.
-- 🎯 В свободное время изучаю разрабатываю браузерные игры.
-- 📫 Для связи: [![Mail Badge](https://img.shields.io/badge/mail-aurelio3@mail.ru-0088cc?style=flat&logo=gmail&logoColor=white)](mailto:aurelio3@mail.ru)
-
----
-
-### :hammer_and_wrench: Языки и инструменты :
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/reactrouter/reactrouter-original-wordmark.svg" title="reactrouter" alt="reactrouter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vagrant/vagrant-original-wordmark.svg" title="Vagrant" alt="Vagrant" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original-wordmark.svg" title="Laravel" **alt="Laravel" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/alpinejs/alpinejs-original-wordmark.svg" title="alpinejs" **alt="alpinejs" width="40" height="40"/>
-</div>
-
----
-
-### :fire: Моя статистка :
-
-<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=V-Kozintsev&locale=ru" alt="GitHub Streak" /></a>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=V-Kozintsev&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-### :writing_hand: Blog Posts :
-
-<!-- BLOG-POST-LIST:START -->
-
-<!-- BLOG-POST-LIST:END -->
+**Обсудить проект или задать вопрос:** [Telegram](https://t.me/viktorkozintsev) · [aurelio3@mail.ru](mailto:aurelio3@mail.ru)

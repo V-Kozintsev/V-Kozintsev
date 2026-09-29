@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="248" viewBox="0 0 960 248" fill="none">
+  <title>Viktor Kozintcev — веб-интерфейсы и игры</title>
+  <desc>React, TypeScript и Game dev. Тёмный баннер с бирюзовым акцентом и абстрактной композицией интерфейса.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="960" y2="248" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#111820"/>
+      <stop offset="1" stop-color="#142F35"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="731" y1="59" x2="887" y2="188" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#79E0CF"/>
+      <stop offset="1" stop-color="#428E94"/>
+    </linearGradient>
+  </defs>
+  <rect x=".5" y=".5" width="959" height="247" rx="16" fill="url(#background)" stroke="#29444A"/>
+  <path d="M672 1V247M720 1V247M768 1V247M816 1V247M864 1V247M912 1V247M672 56H959M672 104H959M672 152H959M672 200H959" stroke="#6AADA8" stroke-opacity=".07"/>
+  <rect x="44" y="40" width="28" height="3" rx="1.5" fill="#79E0CF"/>
+  <text x="84" y="47" fill="#A9C3C7" font-family="'Segoe UI', Arial, sans-serif" font-size="16" font-weight="600" letter-spacing="2">WEB &amp; GAME DEVELOPMENT</text>
+  <text x="44" y="119" fill="#F0F6FC" font-family="'Segoe UI', Arial, sans-serif" font-size="54" font-weight="650" letter-spacing="-1.8">Viktor Kozintcev</text>
+  <text x="47" y="163" fill="#8AD8CB" font-family="'Segoe UI', Arial, sans-serif" font-size="25">React<tspan fill="#4D7176">  /  </tspan>TypeScript<tspan fill="#4D7176">  /  </tspan>Game dev</text>
+  <text x="47" y="208" fill="#A9C3C7" font-family="'Segoe UI', Arial, sans-serif" font-size="17">Интерфейсы, механики, детали.</text>
+  <rect x="704" y="48" width="190" height="150" rx="12" fill="#12242C" stroke="#3D666D"/>
+  <path d="M705 78H893" stroke="#3D666D"/>
+  <circle cx="721" cy="63" r="3" fill="#79E0CF"/>
+  <circle cx="733" cy="63" r="3" fill="#4C7077"/>
+  <circle cx="745" cy="63" r="3" fill="#4C7077"/>
+  <path d="m759 109-15 15 15 15m61-30 15 15-15 15m-25-36-13 42" stroke="url(#accent)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="732" y="165" width="45" height="5" rx="2.5" fill="#5DBEB1" fill-opacity=".65"/>
+  <rect x="785" y="165" width="25" height="5" rx="2.5" fill="#4B737B"/>
+  <rect x="818" y="165" width="47" height="5" rx="2.5" fill="#4B737B"/>
+  <rect x="867" y="182" width="42" height="28" rx="7" fill="#79E0CF"/>
+  <path d="m879 196 6 5 12-12" stroke="#143338" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

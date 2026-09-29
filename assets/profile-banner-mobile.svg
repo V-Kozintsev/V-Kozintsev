@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="300" viewBox="0 0 640 300" fill="none">
+  <title>Viktor Kozintcev — веб-интерфейсы и игры</title>
+  <desc>React, TypeScript и Game dev. Компактная версия баннера для мобильного профиля.</desc>
+  <defs>
+    <linearGradient id="background-mobile" x1="0" y1="0" x2="640" y2="300" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#111820"/>
+      <stop offset="1" stop-color="#142F35"/>
+    </linearGradient>
+  </defs>
+  <rect x=".5" y=".5" width="639" height="299" rx="18" fill="url(#background-mobile)" stroke="#29444A"/>
+  <rect x="36" y="43" width="24" height="3" rx="1.5" fill="#79E0CF"/>
+  <text x="73" y="52" fill="#A9C3C7" font-family="'Segoe UI', Arial, sans-serif" font-size="19" font-weight="600" letter-spacing="1.1">WEB &amp; GAME DEVELOPMENT</text>
+  <path d="m560 38-9 9 9 9m27-18 9 9-9 9m-11-21-5 24" stroke="#79E0CF" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="33" y="142" fill="#F0F6FC" font-family="'Segoe UI', Arial, sans-serif" font-size="61" font-weight="650" letter-spacing="-2">Viktor Kozintcev</text>
+  <text x="37" y="202" fill="#8AD8CB" font-family="'Segoe UI', Arial, sans-serif" font-size="30">React<tspan fill="#4D7176">  /  </tspan>TypeScript<tspan fill="#4D7176">  /  </tspan>Game dev</text>
+  <text x="37" y="256" fill="#A9C3C7" font-family="'Segoe UI', Arial, sans-serif" font-size="23">Интерфейсы, механики, детали.</text>
+</svg>
