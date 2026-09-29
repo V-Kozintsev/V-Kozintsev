@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="960" height="310" viewBox="0 0 960 310" fill="none">
   <title>Viktor Kozintcev — Frontend Developer</title>
-  <desc>JavaScript, TypeScript, React. Адаптивные интерфейсы и браузерные игры. Тёмный баннер с бирюзовыми и лиловыми акцентами.</desc>
+  <desc>JavaScript, TypeScript, React, Unity. Адаптивные интерфейсы и браузерные игры. Тёмный баннер с бирюзовыми и лиловыми акцентами.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="960" y2="310" gradientUnits="userSpaceOnUse"><stop stop-color="#111827"/><stop offset=".56" stop-color="#121D2C"/><stop offset="1" stop-color="#1C2541"/></linearGradient>
     <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="translate(780 132) rotate(90) scale(212 272)" gradientUnits="userSpaceOnUse"><stop stop-color="#6880C8" stop-opacity=".16"/><stop offset="1" stop-color="#6880C8" stop-opacity="0"/></radialGradient>
@@ -16,7 +16,7 @@
   <text x="45" y="172" fill="#D5DEEF" font-family="'Segoe UI', Arial, sans-serif" font-size="22">Интерфейсы с продуманной логикой</text>
   <text x="45" y="202" fill="#94A4BE" font-family="'Segoe UI', Arial, sans-serif" font-size="18">Веб-приложения · Адаптивная вёрстка · Игры</text>
   <path d="M45 229H562" stroke="#35435A" stroke-linecap="round"/>
-  <text x="45" y="267" fill="#77DFCA" font-family="'Segoe UI', Arial, sans-serif" font-size="19" font-weight="600">JavaScript<tspan fill="#54647F">  /  </tspan>TypeScript<tspan fill="#54647F">  /  </tspan>React</text>
+  <text x="45" y="267" fill="#77DFCA" font-family="'Segoe UI', Arial, sans-serif" font-size="19" font-weight="600">JavaScript<tspan fill="#54647F">  /  </tspan>TypeScript<tspan fill="#54647F">  /  </tspan>React<tspan fill="#54647F">  /  </tspan><tspan fill="#B7A5F4">Unity</tspan></text>
   <rect x="630" y="61" width="267" height="183" rx="14" fill="url(#card)" stroke="#53627F"/>
   <path d="M631 95H896" stroke="#43536F"/>
   <circle cx="648" cy="78" r="3" fill="#77DFCA"/><circle cx="660" cy="78" r="3" fill="#64748B"/><circle cx="672" cy="78" r="3" fill="#64748B"/>
@@ -37,3 +37,4 @@
   <rect x="851" y="235" width="14" height="14" rx="4" fill="#77DFCA"/><rect x="870" y="235" width="14" height="14" rx="4" fill="#596181"/><rect x="889" y="235" width="12" height="14" rx="4" fill="#596181"/>
   <text x="853" y="266" fill="#D6C9FF" font-family="'Segoe UI', Arial, sans-serif" font-size="8" font-weight="600" letter-spacing=".9">GAME DEV</text>
 </svg>
+

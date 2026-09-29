@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="720" height="394" viewBox="0 0 720 394" fill="none">
   <title>Viktor Kozintcev — Frontend Developer</title>
-  <desc>JavaScript, TypeScript, React. Веб-приложения, адаптивная вёрстка и игры. Мобильный баннер.</desc>
+  <desc>JavaScript, TypeScript, React, Unity. Веб-приложения, адаптивная вёрстка и игры. Мобильный баннер.</desc>
   <defs>
     <linearGradient id="bg-mobile" x1="0" y1="0" x2="720" y2="394" gradientUnits="userSpaceOnUse"><stop stop-color="#111827"/><stop offset="1" stop-color="#1C2541"/></linearGradient>
   </defs>
@@ -14,5 +14,6 @@
   <text x="41" y="217" fill="#D5DEEF" font-family="'Segoe UI', Arial, sans-serif" font-size="29">Интерфейсы с продуманной логикой</text>
   <text x="41" y="259" fill="#94A4BE" font-family="'Segoe UI', Arial, sans-serif" font-size="24">Веб-приложения · Вёрстка · Игры</text>
   <path d="M41 294H679" stroke="#35435A" stroke-linecap="round"/>
-  <text x="41" y="344" fill="#77DFCA" font-family="'Segoe UI', Arial, sans-serif" font-size="29" font-weight="600">JavaScript<tspan fill="#54647F">  /  </tspan>TypeScript<tspan fill="#54647F">  /  </tspan>React</text>
+  <text x="41" y="344" fill="#77DFCA" font-family="'Segoe UI', Arial, sans-serif" font-size="29" font-weight="600">JavaScript<tspan fill="#54647F">  /  </tspan>TypeScript<tspan fill="#54647F">  /  </tspan>React<tspan fill="#54647F">  /  </tspan><tspan fill="#B7A5F4">Unity</tspan></text>
 </svg>
+
