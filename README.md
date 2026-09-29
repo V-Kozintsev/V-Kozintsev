@@ -3,7 +3,7 @@
   <img src="https://raw.githubusercontent.com/V-Kozintsev/V-Kozintsev/main/assets/profile-banner.svg?v=20260929-unity" alt="Viktor Kozintcev — Frontend Developer. JavaScript, TypeScript, React, Unity, адаптивные интерфейсы и браузерные игры." width="100%">
 </picture>
 
-**Frontend-разработчик.** Создаю интерфейсы на JavaScript и TypeScript: от адаптивной вёрстки по Figma до React-приложений с навигацией, формами и данными. Работаю с Laravel / Blade, собираю адаптивные лендинги на **Tilda** и развиваю направление **WordPress**. Создаю браузерные игры на TypeScript / SVG; отдельно развиваю игровые прототипы на **Unity / C#**.
+**Frontend-разработчик.** Создаю интерфейсы на JavaScript и TypeScript: от адаптивной вёрстки по Figma до React-приложений с навигацией, формами и данными. Работаю с Laravel / Blade, собираю адаптивные лендинги на **Tilda** и **WordPress**. Создаю браузерные игры на TypeScript / SVG; отдельно развиваю игровые прототипы на **Unity / C#**.
 
 <p>
   <a href="https://t.me/viktorkozintsev"><img src="https://img.shields.io/badge/Telegram-Написать-2AABEE?style=flat-square&amp;logo=telegram&amp;logoColor=white" alt="Написать в Telegram"></a>
@@ -43,7 +43,7 @@
   <img src="https://img.shields.io/badge/SCSS-18212F?style=flat-square&amp;logo=sass&amp;logoColor=CC6699" alt="SCSS">
   <img src="https://img.shields.io/badge/Laravel-18212F?style=flat-square&amp;logo=laravel&amp;logoColor=FF6B62" alt="Laravel">
   <img src="https://img.shields.io/badge/Tilda-18212F?style=flat-square" alt="Tilda — создание адаптивных лендингов">
-  <img src="https://img.shields.io/badge/WordPress-18212F?style=flat-square&amp;logo=wordpress&amp;logoColor=9ACBE2" alt="WordPress — новое направление">
+  <img src="https://img.shields.io/badge/WordPress-18212F?style=flat-square&amp;logo=wordpress&amp;logoColor=9ACBE2" alt="WordPress">
 </p>
 
 | Область | Стек |
@@ -53,7 +53,7 @@
 | **Формы и UI** | React Hook Form · Zod · Tailwind CSS · Material UI |
 | **Backend и данные** | PHP · Laravel / Blade · MySQL · Firebase · REST API |
 | **Разработка** | Git · GitHub · Vite · Docker · Figma |
-| **Лендинги** | Tilda · адаптивная композиция · галереи · навигация · WordPress (новое направление) |
+| **Лендинги** | Tilda · WordPress · адаптивная композиция · галереи · навигация |
 
 [Репозитории Frontend →](https://github.com/search?q=user%3AV-Kozintsev+topic%3Afrontend+fork%3Afalse&amp;type=repositories)
 
