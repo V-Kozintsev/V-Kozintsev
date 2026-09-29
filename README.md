@@ -32,42 +32,9 @@
 
 </details>
 
-## Избранные проекты
+## Как подхожу к работе
 
-### [Project Genesis](https://github.com/V-Kozintsev/ProjectGenesis)
-
-RPG-прототип на Unity: небольшая стартовая локация, перемещение через NavMesh, камера с обходом препятствий, взаимодействие с NPC, диалоги и состояние первого квеста. Проект в разработке.
-
-**Unity · C# · NavMesh · игровой UI**
-
-### [GRAVITON Machinery](https://github.com/V-Kozintsev/graviton-machinery)
-
-Каталог строительной техники: фильтры, карточки моделей, страницы товаров, галерея и форма заявки на коммерческое предложение.
-
-**React · TypeScript · React Router · React Hook Form · Zod**<br>
-[Открыть сайт ↗](https://v-kozintsev.github.io/graviton-machinery/)
-
-### [Task Calendar](https://github.com/V-Kozintsev/Task_Calendar)
-
-Календарь задач с созданием, редактированием и удалением записей, фильтрами и поиском по частичному совпадению. Два варианта хранения: localStorage и Firebase.
-
-**TypeScript · Firebase · localStorage**<br>
-[Открыть демо ↗](https://v-kozintsev.github.io/Task_Calendar/)
-
-### [Easy2Report](https://github.com/V-Kozintsev/file2report)
-
-Веб-приложение на Laravel с почтовой интеграцией через SMTP Яндекса. Окружение Homestead и развёртывание на хостинге Timeweb.
-
-**PHP · Laravel · Homestead · SMTP**
-
-<details>
-  <summary>Ещё немного практики</summary>
-
-- [Redux Chat](https://github.com/V-Kozintsev/Redux-chat) — состояние приложения и синхронизация сообщений через Firebase.
-- [Игра в жизнь](https://github.com/V-Kozintsev/the_game_of_life) — интерактивный проект на TypeScript. [Открыть демо ↗](https://v-kozintsev.github.io/the_game_of_life/)
-- [Mod Studio](https://github.com/V-Kozintsev/otus) — учебный проект по HTML / CSS. [Открыть сайт ↗](https://v-kozintsev.github.io/otus/)
-
-</details>
+Общие элементы выношу в компоненты, проверяю поведение на разных экранах и уделяю внимание производительности. В играх связываю механику, интерфейс и обратную связь игроку; в вебе — логику, вёрстку и удобство использования.
 
 ---
 
