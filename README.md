@@ -3,7 +3,7 @@
   <img src="https://raw.githubusercontent.com/V-Kozintsev/V-Kozintsev/main/assets/profile-banner.svg" alt="Viktor Kozintcev — Frontend Developer. JavaScript, TypeScript, React, адаптивные интерфейсы и браузерные игры." width="100%">
 </picture>
 
-**Frontend-разработчик.** Создаю интерфейсы на JavaScript и TypeScript: от адаптивной вёрстки по Figma до React-приложений с навигацией, формами и данными. Работаю с Laravel / Blade и развиваю отдельное направление — браузерные игры на Phaser.
+**Frontend-разработчик.** Создаю интерфейсы на JavaScript и TypeScript: от адаптивной вёрстки по Figma до React-приложений с навигацией, формами и данными. Работаю с Laravel / Blade, собираю адаптивные лендинги на **Tilda** и развиваю отдельное направление — браузерные игры на Phaser.
 
 <p>
   <a href="https://t.me/viktorkozintsev"><img src="https://img.shields.io/badge/Telegram-Написать-2AABEE?style=flat-square&amp;logo=telegram&amp;logoColor=white" alt="Написать в Telegram"></a>
@@ -41,6 +41,7 @@
   <img src="https://img.shields.io/badge/Vue_3-18212F?style=flat-square&amp;logo=vuedotjs&amp;logoColor=4FC08D" alt="Vue 3">
   <img src="https://img.shields.io/badge/SCSS-18212F?style=flat-square&amp;logo=sass&amp;logoColor=CC6699" alt="SCSS">
   <img src="https://img.shields.io/badge/Laravel-18212F?style=flat-square&amp;logo=laravel&amp;logoColor=FF6B62" alt="Laravel">
+  <img src="https://img.shields.io/badge/Tilda-18212F?style=flat-square" alt="Tilda — создание адаптивных лендингов">
 </p>
 
 | Область | Стек |
@@ -94,4 +95,3 @@
 ---
 
 **[PuskWeb — мой сайт](https://puskweb.ru/)** · Обсудить вакансию или проект: [Telegram](https://t.me/viktorkozintsev) · [aurelio3@mail.ru](mailto:aurelio3@mail.ru)
-
