@@ -31,6 +31,7 @@
 | :--- | :--- | :--- |
 | **Atmos** · Windows / PWA | React / TypeScript / Electron: мини-погода поверх окон, область уведомлений, офлайн-интерфейс, графики и API | [Сайт](https://v-kozintsev.github.io/atmos-weather/) · [Windows](https://github.com/V-Kozintsev/atmos-weather/releases/latest) · [Код](https://github.com/V-Kozintsev/atmos-weather) |
 | **Гедонист** · свечи и ароматы | Адаптивный каталог, фильтры, варианты товаров, корзина с сохранением | [Сайт](https://v-kozintsev.github.io/candlegedonist/) · [Код](https://github.com/V-Kozintsev/candlegedonist) |
+| **Пауза** · кофейня | WordPress / Gutenberg: собственная блочная тема, редактируемое меню, журнал и Full Site Editing | [Сайт](https://v-kozintsev.github.io/pause-wordpress/) · [WordPress](https://playground.wordpress.net/?blueprint-url=https%3A%2F%2Fv-kozintsev.github.io%2Fpause-wordpress%2Fblueprint.json) · [Код](https://github.com/V-Kozintsev/pause-wordpress) |
 | **Елена Козинцева** · фотограф | Tilda: портфолио с увеличением фото, адаптивное меню, цены и запись | [Сайт](https://puskweb-portfolio.tilda.ws/elena-photographer) · [Проект](https://github.com/V-Kozintsev/kozintsevaelena.ru) |
 
 ### Стек для веб-разработки
@@ -54,6 +55,7 @@
 | **Backend и данные** | PHP · Laravel / Blade · MySQL · Firebase · REST API |
 | **Разработка** | Git · GitHub · Vite · Docker · Figma |
 | **Лендинги** | Tilda · WordPress · адаптивная композиция · галереи · навигация |
+| **WordPress** | Gutenberg · блочные темы · theme.json · редактируемый контент |
 
 [Репозитории Frontend →](https://github.com/search?q=user%3AV-Kozintsev+topic%3Afrontend+fork%3Afalse&amp;type=repositories)
 
