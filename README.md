@@ -5,6 +5,8 @@
 
 **Frontend-разработчик.** Создаю интерфейсы на JavaScript и TypeScript: от адаптивной вёрстки по Figma до React-приложений с навигацией, формами и данными. Работаю с Laravel / Blade, собираю адаптивные лендинги на **Tilda** и **WordPress**. Создаю браузерные игры на TypeScript / SVG; отдельно развиваю игровые прототипы на **Unity / C#**.
 
+**Open source:** [мой вклад в LevelUp принят в основную ветку](https://github.com/GiZano/LevelUp/pull/36).
+
 <p>
   <a href="https://t.me/viktorkozintsev"><img src="https://img.shields.io/badge/Telegram-Написать-2AABEE?style=flat-square&amp;logo=telegram&amp;logoColor=white" alt="Написать в Telegram"></a>
   <a href="mailto:aurelio3@mail.ru"><img src="https://img.shields.io/badge/Email-aurelio3%40mail.ru-64748B?style=flat-square&amp;logo=maildotru&amp;logoColor=white" alt="Email: aurelio3@mail.ru"></a>
@@ -91,11 +93,13 @@
 
 ## Open source
 
-Вклад в сторонние проекты через небольшие изменения с проверкой поведения и описанием для ревью.
+Работаю с чужим кодом: разбираюсь в задаче, проверяю поведение и довожу изменение до ревью.
 
-**[LevelUp](https://github.com/GiZano/LevelUp)** · React Native / TypeScript
+**[LevelUp](https://github.com/GiZano/LevelUp)** · React Native / TypeScript · [принятый PR #36](https://github.com/GiZano/LevelUp/pull/36)
 
-[PR #36: кнопка копирования предыдущей недели](https://github.com/GiZano/LevelUp/pull/36) — исправил отображение при пустой прошлой неделе. Изменение принято в основную ветку; проверены переключение недель и обновление данных.
+Исправил недельный планировщик: кнопка копирования скрывается, когда в предыдущей неделе нет блоков. Мейнтейнер проверил и принял изменение в основной проект.
+
+Автор проекта предложил добавить меня в `AUTHORS`. [PR #44 с записью об авторстве](https://github.com/GiZano/LevelUp/pull/44) открыт и ожидает принятия.
 
 [Репозитории Open source →](https://github.com/search?q=user%3AV-Kozintsev+topic%3Aopen-source-contribution+fork%3Atrue&amp;type=repositories)
 
