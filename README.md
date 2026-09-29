@@ -95,7 +95,7 @@
 
 **[LevelUp](https://github.com/GiZano/LevelUp)** · React Native / TypeScript
 
-[PR #36: кнопка копирования предыдущей недели](https://github.com/GiZano/LevelUp/pull/36) — предложил скрывать кнопку, когда копировать нечего. Проверены переключение недель, обновление данных и сценарий копирования.
+[PR #36: кнопка копирования предыдущей недели](https://github.com/GiZano/LevelUp/pull/36) — исправил отображение при пустой прошлой неделе. Изменение принято в основную ветку; проверены переключение недель и обновление данных.
 
 [Репозитории Open source →](https://github.com/search?q=user%3AV-Kozintsev+topic%3Aopen-source-contribution+fork%3Atrue&amp;type=repositories)
 
