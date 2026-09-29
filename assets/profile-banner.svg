@@ -1,32 +1,39 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="248" viewBox="0 0 960 248" fill="none">
-  <title>Viktor Kozintcev — веб-интерфейсы и игры</title>
-  <desc>React, TypeScript и Game dev. Тёмный баннер с бирюзовым акцентом и абстрактной композицией интерфейса.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="310" viewBox="0 0 960 310" fill="none">
+  <title>Viktor Kozintcev — Frontend Developer</title>
+  <desc>JavaScript, TypeScript, React. Адаптивные интерфейсы и браузерные игры. Тёмный баннер с бирюзовыми и лиловыми акцентами.</desc>
   <defs>
-    <linearGradient id="background" x1="0" y1="0" x2="960" y2="248" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#111820"/>
-      <stop offset="1" stop-color="#142F35"/>
-    </linearGradient>
-    <linearGradient id="accent" x1="731" y1="59" x2="887" y2="188" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#79E0CF"/>
-      <stop offset="1" stop-color="#428E94"/>
-    </linearGradient>
+    <linearGradient id="bg" x1="0" y1="0" x2="960" y2="310" gradientUnits="userSpaceOnUse"><stop stop-color="#111827"/><stop offset=".56" stop-color="#121D2C"/><stop offset="1" stop-color="#1C2541"/></linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="translate(780 132) rotate(90) scale(212 272)" gradientUnits="userSpaceOnUse"><stop stop-color="#6880C8" stop-opacity=".16"/><stop offset="1" stop-color="#6880C8" stop-opacity="0"/></radialGradient>
+    <linearGradient id="card" x1="640" y1="73" x2="900" y2="235" gradientUnits="userSpaceOnUse"><stop stop-color="#202F44"/><stop offset="1" stop-color="#182537"/></linearGradient>
+    <linearGradient id="accent" x1="684" y1="151" x2="826" y2="190" gradientUnits="userSpaceOnUse"><stop stop-color="#77DFCA"/><stop offset="1" stop-color="#5BAFBF"/></linearGradient>
   </defs>
-  <rect x=".5" y=".5" width="959" height="247" rx="16" fill="url(#background)" stroke="#29444A"/>
-  <path d="M672 1V247M720 1V247M768 1V247M816 1V247M864 1V247M912 1V247M672 56H959M672 104H959M672 152H959M672 200H959" stroke="#6AADA8" stroke-opacity=".07"/>
-  <rect x="44" y="40" width="28" height="3" rx="1.5" fill="#79E0CF"/>
-  <text x="84" y="47" fill="#A9C3C7" font-family="'Segoe UI', Arial, sans-serif" font-size="16" font-weight="600" letter-spacing="2">WEB &amp; GAME DEVELOPMENT</text>
-  <text x="44" y="119" fill="#F0F6FC" font-family="'Segoe UI', Arial, sans-serif" font-size="54" font-weight="650" letter-spacing="-1.8">Viktor Kozintcev</text>
-  <text x="47" y="163" fill="#8AD8CB" font-family="'Segoe UI', Arial, sans-serif" font-size="25">React<tspan fill="#4D7176">  /  </tspan>TypeScript<tspan fill="#4D7176">  /  </tspan>Game dev</text>
-  <text x="47" y="208" fill="#A9C3C7" font-family="'Segoe UI', Arial, sans-serif" font-size="17">Интерфейсы, механики, детали.</text>
-  <rect x="704" y="48" width="190" height="150" rx="12" fill="#12242C" stroke="#3D666D"/>
-  <path d="M705 78H893" stroke="#3D666D"/>
-  <circle cx="721" cy="63" r="3" fill="#79E0CF"/>
-  <circle cx="733" cy="63" r="3" fill="#4C7077"/>
-  <circle cx="745" cy="63" r="3" fill="#4C7077"/>
-  <path d="m759 109-15 15 15 15m61-30 15 15-15 15m-25-36-13 42" stroke="url(#accent)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-  <rect x="732" y="165" width="45" height="5" rx="2.5" fill="#5DBEB1" fill-opacity=".65"/>
-  <rect x="785" y="165" width="25" height="5" rx="2.5" fill="#4B737B"/>
-  <rect x="818" y="165" width="47" height="5" rx="2.5" fill="#4B737B"/>
-  <rect x="867" y="182" width="42" height="28" rx="7" fill="#79E0CF"/>
-  <path d="m879 196 6 5 12-12" stroke="#143338" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x=".5" y=".5" width="959" height="309" rx="18" fill="url(#bg)" stroke="#33415B"/>
+  <rect x="1" y="1" width="958" height="308" rx="18" fill="url(#glow)"/>
+  <path d="M628 26V283M676 26V283M724 26V283M772 26V283M820 26V283M868 26V283M916 26V283M605 58H934M605 106H934M605 154H934M605 202H934M605 250H934" stroke="#9CA9C9" stroke-opacity=".055"/>
+  <rect x="44" y="34" width="7" height="7" rx="3.5" fill="#77DFCA"/>
+  <text x="63" y="44" fill="#BBC8DE" font-family="'Segoe UI', Arial, sans-serif" font-size="15" font-weight="600" letter-spacing="2.2">FRONTEND DEVELOPER</text>
+  <text x="41" y="123" fill="#F2F5FC" font-family="'Segoe UI', Arial, sans-serif" font-size="55" font-weight="650" letter-spacing="-1.8">Viktor Kozintcev</text>
+  <text x="45" y="172" fill="#D5DEEF" font-family="'Segoe UI', Arial, sans-serif" font-size="22">Интерфейсы с продуманной логикой</text>
+  <text x="45" y="202" fill="#94A4BE" font-family="'Segoe UI', Arial, sans-serif" font-size="18">Веб-приложения · Адаптивная вёрстка · Игры</text>
+  <path d="M45 229H562" stroke="#35435A" stroke-linecap="round"/>
+  <text x="45" y="267" fill="#77DFCA" font-family="'Segoe UI', Arial, sans-serif" font-size="19" font-weight="600">JavaScript<tspan fill="#54647F">  /  </tspan>TypeScript<tspan fill="#54647F">  /  </tspan>React</text>
+  <rect x="630" y="61" width="267" height="183" rx="14" fill="url(#card)" stroke="#53627F"/>
+  <path d="M631 95H896" stroke="#43536F"/>
+  <circle cx="648" cy="78" r="3" fill="#77DFCA"/><circle cx="660" cy="78" r="3" fill="#64748B"/><circle cx="672" cy="78" r="3" fill="#64748B"/>
+  <text x="690" y="82" fill="#9EACC5" font-family="'Segoe UI', Arial, sans-serif" font-size="10" letter-spacing="1">INTERFACE / STATE / FEEDBACK</text>
+  <rect x="648" y="113" width="44" height="111" rx="6" fill="#172438"/>
+  <rect x="658" y="124" width="24" height="5" rx="2.5" fill="#77DFCA"/>
+  <rect x="658" y="145" width="18" height="4" rx="2" fill="#596D8C"/><rect x="658" y="160" width="23" height="4" rx="2" fill="#596D8C"/><rect x="658" y="175" width="17" height="4" rx="2" fill="#596D8C"/>
+  <rect x="706" y="113" width="172" height="27" rx="6" fill="#30425C"/>
+  <rect x="718" y="124" width="79" height="5" rx="2.5" fill="#9AAFCF"/>
+  <rect x="706" y="153" width="76" height="44" rx="7" fill="url(#accent)"/>
+  <path d="m721 178 9-8 9 4 13-10 14 6" stroke="#143A43" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="793" y="153" width="85" height="44" rx="7" fill="#324267"/>
+  <rect x="804" y="167" width="46" height="5" rx="2.5" fill="#C3B7F0"/><rect x="804" y="179" width="31" height="4" rx="2" fill="#8B84AB"/>
+  <rect x="706" y="210" width="116" height="5" rx="2.5" fill="#536A8E"/>
+  <path d="M779 244V261H831" stroke="#7A779F" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="3 4"/>
+  <rect x="838" y="202" width="76" height="77" rx="13" fill="#24263F" stroke="#9182C9"/>
+  <rect x="851" y="216" width="14" height="14" rx="4" fill="#596181"/><rect x="870" y="216" width="14" height="14" rx="4" fill="#B7A5F4"/><rect x="889" y="216" width="12" height="14" rx="4" fill="#596181"/>
+  <rect x="851" y="235" width="14" height="14" rx="4" fill="#77DFCA"/><rect x="870" y="235" width="14" height="14" rx="4" fill="#596181"/><rect x="889" y="235" width="12" height="14" rx="4" fill="#596181"/>
+  <text x="853" y="266" fill="#D6C9FF" font-family="'Segoe UI', Arial, sans-serif" font-size="8" font-weight="600" letter-spacing=".9">GAME DEV</text>
 </svg>

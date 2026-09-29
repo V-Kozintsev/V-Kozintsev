@@ -1,17 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="640" height="300" viewBox="0 0 640 300" fill="none">
-  <title>Viktor Kozintcev — веб-интерфейсы и игры</title>
-  <desc>React, TypeScript и Game dev. Компактная версия баннера для мобильного профиля.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="394" viewBox="0 0 720 394" fill="none">
+  <title>Viktor Kozintcev — Frontend Developer</title>
+  <desc>JavaScript, TypeScript, React. Веб-приложения, адаптивная вёрстка и игры. Мобильный баннер.</desc>
   <defs>
-    <linearGradient id="background-mobile" x1="0" y1="0" x2="640" y2="300" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#111820"/>
-      <stop offset="1" stop-color="#142F35"/>
-    </linearGradient>
+    <linearGradient id="bg-mobile" x1="0" y1="0" x2="720" y2="394" gradientUnits="userSpaceOnUse"><stop stop-color="#111827"/><stop offset="1" stop-color="#1C2541"/></linearGradient>
   </defs>
-  <rect x=".5" y=".5" width="639" height="299" rx="18" fill="url(#background-mobile)" stroke="#29444A"/>
-  <rect x="36" y="43" width="24" height="3" rx="1.5" fill="#79E0CF"/>
-  <text x="73" y="52" fill="#A9C3C7" font-family="'Segoe UI', Arial, sans-serif" font-size="19" font-weight="600" letter-spacing="1.1">WEB &amp; GAME DEVELOPMENT</text>
-  <path d="m560 38-9 9 9 9m27-18 9 9-9 9m-11-21-5 24" stroke="#79E0CF" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round"/>
-  <text x="33" y="142" fill="#F0F6FC" font-family="'Segoe UI', Arial, sans-serif" font-size="61" font-weight="650" letter-spacing="-2">Viktor Kozintcev</text>
-  <text x="37" y="202" fill="#8AD8CB" font-family="'Segoe UI', Arial, sans-serif" font-size="30">React<tspan fill="#4D7176">  /  </tspan>TypeScript<tspan fill="#4D7176">  /  </tspan>Game dev</text>
-  <text x="37" y="256" fill="#A9C3C7" font-family="'Segoe UI', Arial, sans-serif" font-size="23">Интерфейсы, механики, детали.</text>
+  <rect x=".5" y=".5" width="719" height="393" rx="20" fill="url(#bg-mobile)" stroke="#33415B"/>
+  <path d="M548 22V132M592 22V132M636 22V132M680 22V132M529 44H697M529 88H697M529 132H697" stroke="#9CA9C9" stroke-opacity=".075"/>
+  <rect x="40" y="41" width="8" height="8" rx="4" fill="#77DFCA"/>
+  <text x="62" y="53" fill="#BBC8DE" font-family="'Segoe UI', Arial, sans-serif" font-size="22" font-weight="600" letter-spacing="2.1">FRONTEND DEVELOPER</text>
+  <rect x="606" y="35" width="65" height="58" rx="12" fill="#252A46" stroke="#746A9E"/>
+  <path d="m625 54-8 8 8 8m27-16 8 8-8 8m-11-21-5 26" stroke="#B7A5F4" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="36" y="153" fill="#F2F5FC" font-family="'Segoe UI', Arial, sans-serif" font-size="64" font-weight="650" letter-spacing="-2.1">Viktor Kozintcev</text>
+  <text x="41" y="217" fill="#D5DEEF" font-family="'Segoe UI', Arial, sans-serif" font-size="29">Интерфейсы с продуманной логикой</text>
+  <text x="41" y="259" fill="#94A4BE" font-family="'Segoe UI', Arial, sans-serif" font-size="24">Веб-приложения · Вёрстка · Игры</text>
+  <path d="M41 294H679" stroke="#35435A" stroke-linecap="round"/>
+  <text x="41" y="344" fill="#77DFCA" font-family="'Segoe UI', Arial, sans-serif" font-size="29" font-weight="600">JavaScript<tspan fill="#54647F">  /  </tspan>TypeScript<tspan fill="#54647F">  /  </tspan>React</text>
 </svg>
