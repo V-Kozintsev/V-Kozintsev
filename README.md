@@ -99,7 +99,7 @@
 
 Исправил недельный планировщик: кнопка копирования скрывается, когда в предыдущей неделе нет блоков. Мейнтейнер проверил и принял изменение в основной проект.
 
-Автор проекта предложил добавить меня в `AUTHORS`. [PR #44 с записью об авторстве](https://github.com/GiZano/LevelUp/pull/44) открыт и ожидает принятия.
+По предложению мейнтейнера моё имя добавлено в [AUTHORS основного проекта](https://github.com/GiZano/LevelUp/blob/main/AUTHORS) — [PR #44 принят](https://github.com/GiZano/LevelUp/pull/44).
 
 [Репозитории Open source →](https://github.com/search?q=user%3AV-Kozintsev+topic%3Aopen-source-contribution+fork%3Atrue&amp;type=repositories)
 
