@@ -31,7 +31,7 @@
 
 | Проект | Что реализовано | Посмотреть |
 | :--- | :--- | :--- |
-| **Atmos** · Windows / PWA | React / TypeScript / Electron: мини-погода поверх окон, область уведомлений, офлайн-интерфейс, графики и API | [Сайт](https://v-kozintsev.github.io/atmos-weather/) · [Windows](https://github.com/V-Kozintsev/atmos-weather/releases/latest) · [Код](https://github.com/V-Kozintsev/atmos-weather) |
+| **Atmos** · Windows / PWA / mobile | React / TypeScript: прогноз и визуальный подбор одежды для женщин и мужчин; Electron для Windows, проекты Android и iOS на Capacitor | [Сайт](https://v-kozintsev.github.io/atmos-weather/) · [Windows](https://github.com/V-Kozintsev/atmos-weather/releases/latest) · [Код](https://github.com/V-Kozintsev/atmos-weather) |
 | **Гедонист** · свечи и ароматы | Адаптивный каталог, фильтры, варианты товаров, корзина с сохранением | [Сайт](https://v-kozintsev.github.io/candlegedonist/) · [Код](https://github.com/V-Kozintsev/candlegedonist) |
 | **Пауза** · кофейня | WordPress / Gutenberg: собственная блочная тема, редактируемое меню, журнал и Full Site Editing | [Сайт](https://v-kozintsev.github.io/pause-wordpress/) · [WordPress](https://playground.wordpress.net/?blueprint-url=https%3A%2F%2Fv-kozintsev.github.io%2Fpause-wordpress%2Fblueprint.json) · [Код](https://github.com/V-Kozintsev/pause-wordpress) |
 | **Елена Козинцева** · фотограф | Tilda: портфолио с увеличением фото, адаптивное меню, цены и запись | [Сайт](https://puskweb-portfolio.tilda.ws/elena-photographer) · [Проект](https://github.com/V-Kozintsev/kozintsevaelena.ru) |
@@ -42,6 +42,7 @@
   <img src="https://img.shields.io/badge/JavaScript-18212F?style=flat-square&amp;logo=javascript&amp;logoColor=F7DF1E" alt="JavaScript">
   <img src="https://img.shields.io/badge/TypeScript-18212F?style=flat-square&amp;logo=typescript&amp;logoColor=60A5FA" alt="TypeScript">
   <img src="https://img.shields.io/badge/React-18212F?style=flat-square&amp;logo=react&amp;logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Capacitor-18212F?style=flat-square&amp;logo=capacitor&amp;logoColor=8FD7FF" alt="Capacitor">
   <img src="https://img.shields.io/badge/Vue_3-18212F?style=flat-square&amp;logo=vuedotjs&amp;logoColor=4FC08D" alt="Vue 3">
   <img src="https://img.shields.io/badge/SCSS-18212F?style=flat-square&amp;logo=sass&amp;logoColor=CC6699" alt="SCSS">
   <img src="https://img.shields.io/badge/Laravel-18212F?style=flat-square&amp;logo=laravel&amp;logoColor=FF6B62" alt="Laravel">
@@ -52,7 +53,7 @@
 | Область | Стек |
 | :--- | :--- |
 | **Основа frontend** | JavaScript · TypeScript · HTML · CSS / SCSS |
-| **Приложения** | React · Vue 3 · React Router · Redux · Alpine.js |
+| **Приложения** | React · Vue 3 · React Router · Redux · Alpine.js · Capacitor |
 | **Формы и UI** | React Hook Form · Zod · Tailwind CSS · Material UI |
 | **Backend и данные** | PHP · Laravel / Blade · MySQL · Firebase · REST API |
 | **Разработка** | Git · GitHub · Vite · Docker · Figma |
