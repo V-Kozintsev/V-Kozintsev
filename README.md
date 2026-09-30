@@ -31,7 +31,7 @@
 
 | Проект | Что реализовано | Посмотреть |
 | :--- | :--- | :--- |
-| **Atmos** · Windows / PWA / mobile | React / TypeScript: прогноз и подбор полного образа по погоде, стилю и личному комфорту; Electron для Windows, проекты Android и iOS на Capacitor | [Сайт](https://v-kozintsev.github.io/atmos-weather/) · [Windows](https://github.com/V-Kozintsev/atmos-weather/releases/latest) · [Код](https://github.com/V-Kozintsev/atmos-weather) |
+| **Atmos** · Windows / PWA / mobile | React / TypeScript: прогноз MET Norway, подбор одежды, поиск городов без сети; Electron с обновлением Windows-приложения, проекты Android и iOS на Capacitor | [Сайт](https://v-kozintsev.github.io/atmos-weather/) · [Windows](https://github.com/V-Kozintsev/atmos-weather/releases/latest) · [Код](https://github.com/V-Kozintsev/atmos-weather) |
 | **Гедонист** · свечи и ароматы | Адаптивный каталог, фильтры, варианты товаров, корзина с сохранением | [Сайт](https://v-kozintsev.github.io/candlegedonist/) · [Код](https://github.com/V-Kozintsev/candlegedonist) |
 | **Пауза** · кофейня | WordPress / Gutenberg: собственная блочная тема, редактируемое меню, журнал и Full Site Editing | [Сайт](https://v-kozintsev.github.io/pause-wordpress/) · [WordPress](https://playground.wordpress.net/?blueprint-url=https%3A%2F%2Fv-kozintsev.github.io%2Fpause-wordpress%2Fblueprint.json) · [Код](https://github.com/V-Kozintsev/pause-wordpress) |
 | **Елена Козинцева** · фотограф | Tilda: портфолио с увеличением фото, адаптивное меню, цены и запись | [Сайт](https://puskweb-portfolio.tilda.ws/elena-photographer) · [Проект](https://github.com/V-Kozintsev/kozintsevaelena.ru) |
