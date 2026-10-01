@@ -1,9 +1,12 @@
 <picture>
   <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/V-Kozintsev/V-Kozintsev/main/assets/profile-banner-mobile.svg?v=20260929-unity">
-  <img src="https://raw.githubusercontent.com/V-Kozintsev/V-Kozintsev/main/assets/profile-banner.svg?v=20260929-unity" alt="Viktor Kozintcev — Frontend Developer. JavaScript, TypeScript, React, Unity, адаптивные интерфейсы и браузерные игры." width="100%">
-</picture>
+  <img src="https://raw.githubusercontent.com/V-Kozintsev/V-Kozintsev/main/assets/profile-banner.svg?v=20260929-unity" alt="Viktor Kozintcev — Frontend Developer. JavaScript, TypeScript, React, Unity, адаптивные интерфейсы и браузерные игры." width="100%"></picture>
 
-**Frontend-разработчик.** Создаю интерфейсы на JavaScript и TypeScript: от адаптивной вёрстки по Figma до React-приложений с навигацией, формами и данными. Работаю с Laravel / Blade, собираю адаптивные лендинги на **Tilda** и **WordPress**. Создаю браузерные игры на TypeScript / SVG; отдельно развиваю игровые прототипы на **Unity / C#**.
+> **Frontend-разработчик**  
+> Создаю интерфейсы на JavaScript и TypeScript — от адаптивной вёрстки по Figma до React-приложений с навигацией, формами и данными.
+>
+> **Сайты** · Laravel / Blade, адаптивные лендинги на **Tilda** и **WordPress**.  
+> **Игры** · браузерные проекты на TypeScript / SVG и прототипы на **Unity / C#**.
 
 **Open source:** [мой вклад в LevelUp принят в основную ветку](https://github.com/GiZano/LevelUp/pull/36).
 
