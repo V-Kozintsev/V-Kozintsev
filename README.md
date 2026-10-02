@@ -9,7 +9,7 @@
 > **Игры** · браузерные проекты на TypeScript / SVG и прототипы на **Unity / C#**.
 
 
-**Open source:** мои изменения в [LevelUp](https://github.com/GiZano/LevelUp) приняты в основную ветку: [#36](https://github.com/GiZano/LevelUp/pull/36), [#52](https://github.com/GiZano/LevelUp/pull/52), [#53](https://github.com/GiZano/LevelUp/pull/53).
+**Open source:** [принятые изменения в стороннем проекте](#open-source) — от задачи до ревью.
 
 <p>
   <a href="https://t.me/viktorkozintsev"><img src="https://img.shields.io/badge/Telegram-Написать-2AABEE?style=flat-square&amp;logo=telegram&amp;logoColor=white" alt="Написать в Telegram"></a>
@@ -98,21 +98,24 @@
 
 ## Open source
 
-Работаю с чужим кодом: разбираюсь в задаче, проверяю поведение и довожу изменение до ревью.
+Работаю с существующим кодом: разбираюсь в задаче, прохожу ревью и довожу изменения до основной ветки.
 
-**[LevelUp](https://github.com/GiZano/LevelUp)** · React Native / TypeScript · [принятый PR #36](https://github.com/GiZano/LevelUp/pull/36) · [PR #52](https://github.com/GiZano/LevelUp/pull/52) · [PR #53](https://github.com/GiZano/LevelUp/pull/53)
+| Проект | Принятый вклад |
+| :--- | :--- |
+| **[LevelUp](https://github.com/GiZano/LevelUp)**<br><sub>React Native · TypeScript</sub> | Планировщик · история целей · даты завершения<br>[PR #36](https://github.com/GiZano/LevelUp/pull/36) · [PR #52](https://github.com/GiZano/LevelUp/pull/52) · [PR #53](https://github.com/GiZano/LevelUp/pull/53) |
 
-Исправил недельный планировщик: кнопка копирования скрывается, когда в предыдущей неделе нет блоков. Мейнтейнер проверил и принял изменение в основной проект.
+<details>
+  <summary><strong>LevelUp — детали вклада</strong></summary>
 
-Добавил переход из истории целей к деталям выбранной цели и отображение даты её завершения. Обе правки приняты мейнтейнером.
+- Скрыта кнопка копирования, когда в предыдущей неделе нет блоков.
+- Добавлен переход из истории целей к деталям выбранной цели.
+- Показана дата завершения цели с учётом языка интерфейса.
+- Имя добавлено в [AUTHORS](https://github.com/GiZano/LevelUp/blob/main/AUTHORS) — [PR #44](https://github.com/GiZano/LevelUp/pull/44).
 
-По предложению мейнтейнера моё имя добавлено в [AUTHORS основного проекта](https://github.com/GiZano/LevelUp/blob/main/AUTHORS) — [PR #44 принят](https://github.com/GiZano/LevelUp/pull/44).
+</details>
 
 [Репозитории Open source →](https://github.com/search?q=user%3AV-Kozintsev+topic%3Aopen-source-contribution+fork%3Atrue&amp;type=repositories)
 
 ---
 
 **[PuskWeb — мой сайт](https://puskweb.ru/)** · Обсудить вакансию или проект: [Telegram](https://t.me/viktorkozintsev) · [aurelio3@mail.ru](mailto:aurelio3@mail.ru)
-
-
-
