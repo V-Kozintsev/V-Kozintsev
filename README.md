@@ -8,7 +8,8 @@
 > **Сайты** · Laravel / Blade, адаптивные лендинги на **Tilda** и **WordPress**.  
 > **Игры** · браузерные проекты на TypeScript / SVG и прототипы на **Unity / C#**.
 
-**Open source:** [мой вклад в LevelUp принят в основную ветку](https://github.com/GiZano/LevelUp/pull/36).
+
+**Open source:** мои изменения в [LevelUp](https://github.com/GiZano/LevelUp) приняты в основную ветку: [#36](https://github.com/GiZano/LevelUp/pull/36), [#52](https://github.com/GiZano/LevelUp/pull/52), [#53](https://github.com/GiZano/LevelUp/pull/53).
 
 <p>
   <a href="https://t.me/viktorkozintsev"><img src="https://img.shields.io/badge/Telegram-Написать-2AABEE?style=flat-square&amp;logo=telegram&amp;logoColor=white" alt="Написать в Telegram"></a>
@@ -99,9 +100,11 @@
 
 Работаю с чужим кодом: разбираюсь в задаче, проверяю поведение и довожу изменение до ревью.
 
-**[LevelUp](https://github.com/GiZano/LevelUp)** · React Native / TypeScript · [принятый PR #36](https://github.com/GiZano/LevelUp/pull/36)
+**[LevelUp](https://github.com/GiZano/LevelUp)** · React Native / TypeScript · [принятый PR #36](https://github.com/GiZano/LevelUp/pull/36) · [PR #52](https://github.com/GiZano/LevelUp/pull/52) · [PR #53](https://github.com/GiZano/LevelUp/pull/53)
 
 Исправил недельный планировщик: кнопка копирования скрывается, когда в предыдущей неделе нет блоков. Мейнтейнер проверил и принял изменение в основной проект.
+
+Добавил переход из истории целей к деталям выбранной цели и отображение даты её завершения. Обе правки приняты мейнтейнером.
 
 По предложению мейнтейнера моё имя добавлено в [AUTHORS основного проекта](https://github.com/GiZano/LevelUp/blob/main/AUTHORS) — [PR #44 принят](https://github.com/GiZano/LevelUp/pull/44).
 
