@@ -36,6 +36,7 @@
 | Проект | Что реализовано | Посмотреть |
 | :--- | :--- | :--- |
 | **Atmos** · Windows / PWA / mobile | React / TypeScript: прогноз MET Norway, подбор одежды, поиск городов без сети; Electron с обновлением Windows-приложения, проекты Android и iOS на Capacitor | [Сайт](https://v-kozintsev.github.io/atmos-weather/) · [Windows](https://github.com/V-Kozintsev/atmos-weather/releases/latest) · [Код](https://github.com/V-Kozintsev/atmos-weather) |
+| **Тёплый свет** · браузерная игра | TypeScript / SVG / Vite: 25 уровней, реле и подземные линии, подсказки, сохранения, звук и адаптивный интерфейс | [Код и описание](https://github.com/V-Kozintsev/teply-svet) |
 | **Гедонист** · свечи и ароматы | Адаптивный каталог, фильтры, варианты товаров, корзина с сохранением | [Сайт](https://v-kozintsev.github.io/candlegedonist/) · [Код](https://github.com/V-Kozintsev/candlegedonist) |
 | **Пауза** · кофейня | WordPress / Gutenberg: собственная блочная тема, редактируемое меню, журнал и Full Site Editing | [Сайт](https://v-kozintsev.github.io/pause-wordpress/) · [WordPress](https://playground.wordpress.net/?blueprint-url=https%3A%2F%2Fv-kozintsev.github.io%2Fpause-wordpress%2Fblueprint.json) · [Код](https://github.com/V-Kozintsev/pause-wordpress) |
 | **Елена Козинцева** · фотограф | Tilda: портфолио с увеличением фото, адаптивное меню, цены и запись | [Сайт](https://puskweb-portfolio.tilda.ws/elena-photographer) · [Проект](https://github.com/V-Kozintsev/kozintsevaelena.ru) |
@@ -104,9 +105,10 @@
 
 Работаю с существующим кодом: разбираюсь в задаче, прохожу ревью и довожу изменения до основной ветки.
 
-| Проект | Принятый вклад |
+| Проект | Вклад и статус |
 | :--- | :--- |
 | **[LevelUp](https://github.com/GiZano/LevelUp)**<br><sub>React Native · TypeScript</sub> | Планировщик · история целей · даты завершения<br>[PR #36](https://github.com/GiZano/LevelUp/pull/36) · [PR #52](https://github.com/GiZano/LevelUp/pull/52) · [PR #53](https://github.com/GiZano/LevelUp/pull/53) |
+| **[Openverse](https://github.com/WordPress/openverse)**<br><sub>Vue 3 · TypeScript · CSS</sub> | Адаптивность подвала через container queries, без измерения ширины в JavaScript<br>[PR #5624](https://github.com/WordPress/openverse/pull/5624) · **на ревью** |
 
 <details>
   <summary><strong>LevelUp — детали вклада</strong></summary>
