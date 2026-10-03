@@ -36,7 +36,7 @@
 | Проект | Что реализовано | Посмотреть |
 | :--- | :--- | :--- |
 | **Atmos** · Windows / PWA / mobile | React / TypeScript: прогноз MET Norway, подбор одежды, поиск городов без сети; Electron с обновлением Windows-приложения, проекты Android и iOS на Capacitor | [Сайт](https://v-kozintsev.github.io/atmos-weather/) · [Windows](https://github.com/V-Kozintsev/atmos-weather/releases/latest) · [Код](https://github.com/V-Kozintsev/atmos-weather) |
-| **Тёплый свет** · браузерная игра | TypeScript / SVG / Vite: 25 уровней, реле и подземные линии, подсказки, сохранения, звук и адаптивный интерфейс | [Код и описание](https://github.com/V-Kozintsev/teply-svet) |
+| **Тёплый свет** · браузерная игра | TypeScript / SVG / Vite: 26 уровней, русский и английский интерфейс, реле и подземные линии, подсказки, сохранения и звук | [Код и описание](https://github.com/V-Kozintsev/teply-svet) |
 | **Гедонист** · свечи и ароматы | Адаптивный каталог, фильтры, варианты товаров, корзина с сохранением | [Сайт](https://v-kozintsev.github.io/candlegedonist/) · [Код](https://github.com/V-Kozintsev/candlegedonist) |
 | **Пауза** · кофейня | WordPress / Gutenberg: собственная блочная тема, редактируемое меню, журнал и Full Site Editing | [Сайт](https://v-kozintsev.github.io/pause-wordpress/) · [WordPress](https://playground.wordpress.net/?blueprint-url=https%3A%2F%2Fv-kozintsev.github.io%2Fpause-wordpress%2Fblueprint.json) · [Код](https://github.com/V-Kozintsev/pause-wordpress) |
 | **Елена Козинцева** · фотограф | Tilda: портфолио с увеличением фото, адаптивное меню, цены и запись | [Сайт](https://puskweb-portfolio.tilda.ws/elena-photographer) · [Проект](https://github.com/V-Kozintsev/kozintsevaelena.ru) |
@@ -90,7 +90,7 @@
 
 | Проект | Что реализовано | Посмотреть |
 | :--- | :--- | :--- |
-| **Тёплый свет** · браузерная головоломка | TypeScript / SVG / Vite: 25 уровней, реле и подземные линии, подсказки, сохранение прогресса, звук и адаптивное управление | [Код и описание](https://github.com/V-Kozintsev/teply-svet) |
+| **Тёплый свет** · браузерная головоломка | TypeScript / SVG / Vite: 26 уровней, русский и английский интерфейс, реле и подземные линии, сохранение прогресса и адаптивное управление | [Код и описание](https://github.com/V-Kozintsev/teply-svet) |
 
 <details>
   <summary><strong>Unity / C# — отдельное направление развития</strong></summary>
@@ -125,3 +125,4 @@
 ---
 
 **[PuskWeb — мой сайт](https://puskweb.ru/)** · Обсудить вакансию или проект: [Telegram](https://t.me/viktorkozintsev) · [aurelio3@mail.ru](mailto:aurelio3@mail.ru)
+
